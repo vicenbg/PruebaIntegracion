@@ -41,12 +41,12 @@
 		<repository>
 			<id>snapshots</id>
 			<name>Repository Name</name>
-			<url>https://localhost:8081/nexus/content/repositories/snapshots</url>
+			<url>http://localhost:8081/nexus/content/repositories/snapshots</url>
 		</repository>
 		<!-- use the following if you ARE using a snapshot version. -->
 		<snapshotRepository>
 			<id>releases</id>
-			<url>https://localhost:8081/nexus/content/repositories/releases</url>
+			<url>http://localhost:8081/nexus/content/repositories/releases</url>
 		</snapshotRepository>
 	</distributionManagement>
 </project>
