@@ -40,7 +40,6 @@
 		<!-- use the following if you're not using a snapshot version. -->
 		<repository>
 			<id>snapshots</id>
-			<name>Repository Name</name>
 			<url>http://localhost:8081/nexus/content/repositories/snapshots</url>
 		</repository>
 		<!-- use the following if you ARE using a snapshot version. -->
